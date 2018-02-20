@@ -13,7 +13,7 @@ With blood, sweat and plenty of tears. Just kidding. Over the last 24 hours, my 
 
 [Yash Chowdhary](https://github.com/yash-chowdhary)  
 [Sashankh Chengavalli Kumar](https://github.com/chengsashankh)  
-[Ronak Lakhotia](https://github.com/RonakLakhotia)  
+[Shradheya Thakre](https://github.com/tshradheya)  
 
 ## Demo of the Extension on a dummy twitter account
 
